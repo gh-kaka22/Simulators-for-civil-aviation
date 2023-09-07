@@ -1,0 +1,11 @@
+Model Information:
+* title:	Southwest Airlines Boeing 737
+* source:	https://sketchfab.com/3d-models/southwest-airlines-boeing-737-73d0cd0c03594c5d9c53235d74b429bf
+* author:	A Random Modeler (https://sketchfab.com/danielskom111)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Southwest Airlines Boeing 737" (https://sketchfab.com/3d-models/southwest-airlines-boeing-737-73d0cd0c03594c5d9c53235d74b429bf) by A Random Modeler (https://sketchfab.com/danielskom111) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
